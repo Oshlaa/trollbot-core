@@ -184,7 +184,7 @@ Will say that it is constipated or similar.
 GenerateMessage('poop')
 ```
 
-### good:
+### game:
 Will say that it likes a certain game.
 
 ```python
