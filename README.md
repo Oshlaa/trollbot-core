@@ -6,7 +6,6 @@ A small Python script to generate strange strings of text
 
 TrollBot has been tested on Python 3.9.5
 
-
 ### Import trollbot into your script:
 
 ```python
@@ -22,8 +21,7 @@ trollbot.GenerateName()
 trollbot.GenerateMessage()
 ```
 
-## Explaination for each function:
-
+## Explanation for each function:
 
 #
 
@@ -59,7 +57,6 @@ Generates a random internet username.
 
 ### Types of names:
 > Note: "nametype" will default to "random" when not specified
-
 
 ### dsmp:
 Makes a Dream SMP related name.
@@ -103,7 +100,6 @@ Chooses a random name type from the list above
 GenerateName()
 GenerateName('random')
 ```
-
 
 ### `GenerateName()` Example:
 
