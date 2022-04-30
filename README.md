@@ -221,8 +221,8 @@ GenerateMessage('random')
 >>> GenerateMessage('poop')
 'help im really constipated rn :weary:'
 
->>> GenerateMessage('good')
-"that's awesome bro"
+>>> GenerateMessage('game')
+'i love among us!!!!!!'
 
 >>> GenerateMessage()
 "that's insane broski"
